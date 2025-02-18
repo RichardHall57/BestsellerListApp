@@ -22,7 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[img]https://i.imgur.com/AoRiKjb.gif[/img]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Zkq7z21.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+
+[img]https://i.imgur.com/Zkq7z21.gif[/img]
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
