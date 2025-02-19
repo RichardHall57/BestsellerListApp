@@ -1,10 +1,10 @@
-# Android CodepathMail - *Name of App Here*
+# Android BestsellerListApp - *Name of App Here*
 
 Submitted by: **Richard Hall**
 
 **Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **2** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 https://i.imgur.com/Zkq7z21.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
+GIF created with [(https://getkap.co/)] for Windows
 
 
 ## Notes
